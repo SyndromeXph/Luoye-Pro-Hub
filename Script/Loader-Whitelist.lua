@@ -459,11 +459,11 @@ local ok, result = pcall(function()
 	end
 
 	for _, v15 in ipairs({
-		{ Title = "被遗弃", Url = "https://www.kr520.top/ee.lua" },
-		{ Title = "力量传奇", Url = "https://www.kr520.top/fdrees.lua" },
-		{ Title = "暴力区", Url = "https://www.kr520.top/vbhhhg.lua" },
-		{ Title = "犯罪", Url = "https://www.kr520.top/q1.lua" },
-		{ Title = "落叶 Pro", Url = "https://www.kr520.top/sa.lua" },
+		{ Title = "被遗弃", Url = "https://raw.githubusercontent.com/SyndromeXph/Luoye-Pro-Hub/refs/heads/main/Script/Forsaken.lua" },
+		{ Title = "力量传奇", Url = "https://raw.githubusercontent.com/SyndromeXph/Luoye-Pro-Hub/refs/heads/main/Script/%E5%8A%9B%E9%87%8F%E4%BC%A0%E5%A5%87.lua" },
+		{ Title = "暴力区", Url = "https://raw.githubusercontent.com/SyndromeXph/Luoye-Pro-Hub/refs/heads/main/Script/%E6%9A%B4%E5%8A%9B%E5%8C%BA.lua" },
+		{ Title = "犯罪", Url = "https://raw.githubusercontent.com/SyndromeXph/Luoye-Pro-Hub/refs/heads/main/Script/%E7%8A%AF%E7%BD%AA%E7%8E%87.lua" },
+		{ Title = "落叶 Pro", Url = "https://raw.githubusercontent.com/SyndromeXph/Luoye-Pro-Hub/refs/heads/main/Script/%E9%80%9A%E7%94%A8.lua" },
 	}) do
 		local v16 = v15
 		fn6()
