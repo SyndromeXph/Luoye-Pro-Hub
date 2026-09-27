@@ -429,7 +429,7 @@ local ok, result = pcall(function()
 	end
 
 	flag3 = true
-	local lua = fn9("https://www.kr520.top/ui/ui.lua")
+	local lua = fn9("https://raw.githubusercontent.com/SyndromeXph/Luoye-Pro-Hub/refs/heads/main/Library.lua")
 	fn6()
 	local v12 = lua()
 	fn6()
